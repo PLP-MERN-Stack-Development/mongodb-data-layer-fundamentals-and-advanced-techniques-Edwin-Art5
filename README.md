@@ -20,7 +20,7 @@ It includes scripts for connecting to MongoDB, inserting data, and running vario
 1. **Install Dependencies**
    ```bash
    npm install mongoose dotenv
-````
+   ```
 
 2. **Set Up Environment Variables**
 
